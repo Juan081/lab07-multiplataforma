@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\lab07IBattery-master\lab07IBattery\lab07IBattery.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
+C:\Users\user\Desktop\lab07IBattery-master\lab07IBattery\lab07IBattery.Android\obj\Debug\130\build.props
+C:\Users\user\Desktop\lab07IBattery-master\lab07IBattery\lab07IBattery.Android\obj\Debug\130\adb.props
+C:\Users\user\Desktop\lab07IBattery-master\lab07IBattery\lab07IBattery.Android\obj\Debug\130\lab07IBattery.Android.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\lab07IBattery-master\lab07IBattery\lab07IBattery.Android\obj\Debug\130\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\user\Desktop\lab07IBattery-master\lab07IBattery\lab07IBattery.Android\obj\Debug\130\res.flag
